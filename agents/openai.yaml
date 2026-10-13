@@ -1,0 +1,4 @@
+interface:
+  display_name: "暗黑地牢角色皮肤 Mod"
+  short_description: "制作暗黑地牢一代皮肤，采用角色风格移动替代方案并限制图片编辑深度"
+  default_prompt: "使用 $darkest-dungeon-character-skin 为参考人物制作暗黑地牢一代角色皮肤 Mod。"
